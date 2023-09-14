@@ -3,7 +3,7 @@
 
 ### Description 
 ***solution of ICPC Assuit Community Problem Soliving Sheet***
-> best start for Problem solving enthusiast who wants to increase thier knowledge in Programing
+> Best start for Problem solving enthusiast who wants to increase thier knowledge in Programing 
 
 >[!NOTE]
 >All Soultions  Written in C++ Langue 
