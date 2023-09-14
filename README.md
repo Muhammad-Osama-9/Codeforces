@@ -4,7 +4,8 @@
 ### Description 
 ***solution of ICPC Assuit Community Problem Soliving Sheet***
 > best start for Problem solving enthusiast who wants to increase thier knowledge in Programing
-* Warning \
-All Soultions  Written in C++ Langue 
+
+>[!WARNING]
+>All Soultions  Written in C++ Langue 
 
 
