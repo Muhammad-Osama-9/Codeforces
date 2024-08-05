@@ -47,8 +47,12 @@ int main()
     {
         long long n, s;
         cin >> n >> s;
+        
+        /*  the same as frequency array  ^_^   */
         unordered_map<long long, long long> hash_map;
+        
         long long res = 0, length_numbers = 0;
+        
         bool flag_res = false;
         for (int i = 1; i <= n; i++)
         {
