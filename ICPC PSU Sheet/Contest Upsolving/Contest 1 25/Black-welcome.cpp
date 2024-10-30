@@ -47,7 +47,6 @@ long long minl(long long a, long long b)
 #define set_bit(bit, pos) (bit |= (1LL << pos))
 #define clear_bit(bit, pos) ((bit &= (~(1LL << pos))))
 #define tog_bit(bit, pos) ((bit ^= (1LL << pos)))
-#define dijkstra_q priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq
 
 #define cin(arr)        \
     for (auto &i : arr) \
@@ -59,6 +58,7 @@ long long minl(long long a, long long b)
 
 signed main()
 {
+
     Muhammad();
     string s;
     cin >> s;
